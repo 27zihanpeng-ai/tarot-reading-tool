@@ -15,7 +15,7 @@ type ReadingStage = 'intro' | 'question' | 'draw' | 'interpretation';
 interface ReadingData {
   question: string;
   category: string;
-  cards: typeof tarotCards;
+  cards: (typeof tarotCards)[number][];
   interpretation: string;
   loading: boolean;
   error?: string;
@@ -60,7 +60,7 @@ export default function TarotReading({ language }: { language: Language }) {
 
   const handleDrawCards = async () => {
     const numCards = spreads[spreadType].cards;
-    const selectedCards: typeof tarotCards = [];
+    const selectedCards: (typeof tarotCards)[number][] = [];
     const cardIndices = new Set<number>();
 
     while (cardIndices.size < numCards) {
