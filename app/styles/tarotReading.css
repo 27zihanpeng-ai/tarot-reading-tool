@@ -1,0 +1,10 @@
+.tarot-reading { width: 100%; position: relative; z-index: 10; }
+.warning-container { margin-bottom: 30px; }
+.stage { animation: fadeIn 0.5s ease; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+.intro { text-align: center; padding: 40px 20px; }
+.intro-text { font-size: 1.1rem; color: #00FFFF; margin-bottom: 40px; }
+.spread-selector { background: rgba(10, 10, 10, 0.8); border: 2px solid #FFD700; padding: 30px; margin: 30px auto; max-width: 600px; }
+.spread-btn { display: block; width: 100%; margin: 10px 0; padding: 15px; background: rgba(10, 10, 10, 0.6); border: 2px solid #00FFFF; color: #00FFFF; cursor: pointer; }
+.spread-btn.active { background: linear-gradient(135deg, #FFD700 0%, #FFA500 100%); color: #0A0A0A; }
+.error-message { background: #FF6B6B; color: #fff; padding: 15px; margin: 20px 0; border-radius: 3px; }
