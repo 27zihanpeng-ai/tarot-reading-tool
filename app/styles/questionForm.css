@@ -1,0 +1,7 @@
+.question-form-container { max-width: 700px; margin: 0 auto; padding: 20px; }
+.question-form { background: linear-gradient(135deg, rgba(10, 10, 10, 0.9) 0%, rgba(26, 10, 46, 0.9) 100%); border: 2px solid #FFD700; padding: 40px; }
+.question-form h2 { color: #FFD700; margin-bottom: 30px; }
+.question-form select { width: 100%; margin-bottom: 20px; }
+.question-form textarea { width: 100%; margin-bottom: 20px; min-height: 120px; }
+.form-actions { display: flex; gap: 15px; }
+.form-actions button { flex: 1; }
