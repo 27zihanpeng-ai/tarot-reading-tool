@@ -60,7 +60,7 @@ export default function TarotReading({ language }: { language: Language }) {
 
   const handleDrawCards = async () => {
     const numCards = spreads[spreadType].cards;
-    const selectedCards = [];
+    const selectedCards: typeof tarotCards = [];
     const cardIndices = new Set<number>();
 
     while (cardIndices.size < numCards) {
