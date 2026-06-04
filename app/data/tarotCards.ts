@@ -5,7 +5,7 @@ export const tarotCards = [
     zh: '愚者', 
     meaning: 'New beginnings, spontaneity', 
     zh_meaning: '新的开始、自发性',
-    image: '/cards/00-fool.png',
+    image: '/cards/0-The-Fool-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Taking a leap of faith, embracing uncertainty with enthusiasm, stepping into the unknown with optimism. This card signals new adventures, fresh starts, and the courage to take risks.',
       reversed: 'Recklessness, poor judgment, ignoring warnings, naivety. Acting without thinking, taking unnecessary risks, or refusing to listen to good advice.'
@@ -21,7 +21,7 @@ export const tarotCards = [
     zh: '魔术师', 
     meaning: 'Resourcefulness, power', 
     zh_meaning: '足智多谋、力量',
-    image: '/cards/01-magician.png',
+    image: '/cards/01-The-Magician-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Manifestation of your desires, personal power, skilled communication. You have all the tools you need at your disposal. A time to take action and trust your abilities.',
       reversed: 'Manipulation, poor planning, lack of direction, untapped potential. Being confused about your path or lacking the confidence to use your talents effectively.'
@@ -37,7 +37,7 @@ export const tarotCards = [
     zh: '女祭司', 
     meaning: 'Intuition, inner voice', 
     zh_meaning: '直觉、内心声音',
-    image: '/cards/02-high-priestess.png',
+    image: '/cards/02-The-High-Priestess-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Trust your instincts, listen to your inner wisdom, the subconscious reveals itself. Secrets are being uncovered, and mysteries will be solved through intuition rather than logic.',
       reversed: 'Repressed intuition, confusion, lack of introspection, blocked access to inner wisdom. You may be ignoring important psychological signals or trusting external voices over your own.'
@@ -53,7 +53,7 @@ export const tarotCards = [
     zh: '皇后', 
     meaning: 'Femininity, abundance', 
     zh_meaning: '女性气质、丰富',
-    image: '/cards/03-empress.png',
+    image: '/cards/03-The-Empress-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Creativity, abundance, nurturing energy, growth and prosperity. Represents fertility in ideas and projects. A time of beauty, pleasure, and material comfort.',
       reversed: 'Lack of creativity, blocked growth, dependency issues, or infertility struggles. Possible neglect of self-care or creative expression.'
@@ -69,7 +69,7 @@ export const tarotCards = [
     zh: '皇帝', 
     meaning: 'Authority, leadership', 
     zh_meaning: '权威、领导力',
-    image: '/cards/04-emperor.png',
+    image: '/cards/04-The-Emperor-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Authority, power, leadership, structure and control. You are in a position of strength. A time to establish order, set boundaries, and take decisive action.',
       reversed: 'Lack of authority, weakness, tyranny, or abuse of power. Loss of control or struggling with authoritarian figures.'
@@ -85,7 +85,7 @@ export const tarotCards = [
     zh: '教皇', 
     meaning: 'Spirituality, tradition', 
     zh_meaning: '灵性、传统',
-    image: '/cards/05-hierophant.png',
+    image: '/cards/05-The-Hierophant-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Tradition, spiritual wisdom, religious faith, moral values. A guide or mentor appears. Focus on established practices and conformity with social norms.',
       reversed: 'Rebellion against tradition, personal beliefs over institutional dogma, unconventional spiritual path. Breaking free from restrictive systems.'
@@ -101,7 +101,7 @@ export const tarotCards = [
     zh: '恋人', 
     meaning: 'Relationships, values', 
     zh_meaning: '关系、价值观',
-    image: '/cards/06-lovers.png',
+    image: '/cards/06-The-Lovers-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Love, harmony, relationships, important choices regarding values. Represents alignment between your actions and beliefs. May indicate romantic love or a deep connection.',
       reversed: 'Conflict, miscommunication, misalignment of values. Relationship challenges or difficult decisions about what truly matters to you.'
@@ -117,7 +117,7 @@ export const tarotCards = [
     zh: '战车', 
     meaning: 'Control, willpower', 
     zh_meaning: '控制、意志力',
-    image: '/cards/07-chariot.png',
+    image: '/cards/07-The-Chariot-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Victory, willpower, determination, control over circumstances. A sign that you should push forward with confidence. Hard work and determination will lead to success.',
       reversed: 'Lack of control, scattered energy, no direction. Feeling overwhelmed or losing your grip on a situation. Difficulty maintaining focus.'
@@ -133,7 +133,7 @@ export const tarotCards = [
     zh: '力量', 
     meaning: 'Inner strength, courage', 
     zh_meaning: '内在力量、勇气',
-    image: '/cards/08-strength.png',
+    image: '/cards/08-Strength-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Inner strength, courage, patience, and control. You have the ability to overcome challenges through gentle determination. Confidence in your inner power.',
       reversed: 'Self-doubt, weakness, insecurity, or harsh inner criticism. You may be underestimating your own resilience and abilities.'
@@ -149,7 +149,7 @@ export const tarotCards = [
     zh: '隐者', 
     meaning: 'Introspection, inner guidance', 
     zh_meaning: '内省、内在指导',
-    image: '/cards/09-hermit.png',
+    image: '/cards/09-The-Hermit-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Introspection, inner guidance, spiritual search. A time to look within and seek answers from your soul. Wisdom gained through solitude and reflection.',
       reversed: 'Isolation, loneliness, withdrawn behavior. Or refusing to seek help when needed. Time to reconnect with others and the world around you.'
@@ -165,7 +165,7 @@ export const tarotCards = [
     zh: '命运之轮', 
     meaning: 'Cycles, fate', 
     zh_meaning: '循环、命运',
-    image: '/cards/10-wheel-of-fortune.png',
+    image: '/cards/10-The-Wheel-of-Fortune-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Good luck, destiny, karma, life cycles. A turning point is coming. What goes up must come down, and vice versa. Embracing change and natural rhythms.',
       reversed: 'Bad luck, chaos, disrupted cycles. Resistance to change or feeling trapped by circumstances. Break free from patterns that no longer serve you.'
@@ -181,7 +181,7 @@ export const tarotCards = [
     zh: '正义', 
     meaning: 'Justice, fairness', 
     zh_meaning: '公正、公平',
-    image: '/cards/11-justice.png',
+    image: '/cards/11-Justice-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Truth, cause and effect, accountability, legal matters resolved fairly. A time for honest decisions and balanced judgment. Karma comes into play.',
       reversed: 'Injustice, dishonesty, unfair circumstances, biased judgments. Legal troubles or situations where truth is obscured.'
@@ -197,7 +197,7 @@ export const tarotCards = [
     zh: '吊人', 
     meaning: 'Pause, letting go', 
     zh_meaning: '暂停、放手',
-    image: '/cards/12-hanged-man.png',
+    image: '/cards/12-The-Hanged-Man-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Pause, perspective shift, suspension of judgment. A time to let go of what no longer serves you. Sacrifice for greater understanding or spiritual gain.',
       reversed: 'Apathy, stalling, avoiding necessary change, stubbornness. Inability or unwillingness to make a sacrifice. Refusing to surrender to new circumstances.'
@@ -213,7 +213,7 @@ export const tarotCards = [
     zh: '死神', 
     meaning: 'Transformation, endings', 
     zh_meaning: '变化、结束',
-    image: '/cards/13-death.png',
+    image: '/cards/13-Death-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Transformation, endings and new beginnings, transition, metamorphosis. Not literal death, but symbolic of necessary change and rebirth. Close one chapter to open another.',
       reversed: 'Stagnation, fear of change, resistance to transformation. Holding onto what has ended or refusing to embrace necessary transitions.'
@@ -229,7 +229,7 @@ export const tarotCards = [
     zh: '节制', 
     meaning: 'Balance, moderation', 
     zh_meaning: '平衡、适度',
-    image: '/cards/14-temperance.png',
+    image: '/cards/14-Temperance-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Balance, moderation, patience, harmony. Finding the middle path, blending different elements. A time to be calm, patient, and balanced in your approach.',
       reversed: 'Imbalance, excess, impatience, discord. Losing sight of moderation or struggling to find harmony in life. Internal or external conflict.'
@@ -245,7 +245,7 @@ export const tarotCards = [
     zh: '恶魔', 
     meaning: 'Bondage, materialism', 
     zh_meaning: '束缚、物质主义',
-    image: '/cards/15-devil.png',
+    image: '/cards/15-The-Devil-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Bondage, materialism, playfulness, detachment. You may be trapped by limiting beliefs or unhealthy attachments. A reminder to check your values and priorities.',
       reversed: 'Release from bondage, freedom, breaking free from limitations. Recognizing and escaping toxic patterns or dependencies.'
@@ -261,7 +261,7 @@ export const tarotCards = [
     zh: '塔', 
     meaning: 'Upheaval, revelation', 
     zh_meaning: '动荡、启示',
-    image: '/cards/16-tower.png',
+    image: '/cards/16-The-Tower-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Sudden upheaval, chaos, revelation, breakdown of old structures. A tower moment—when life shakes up to reveal truth. Though painful, this clears the way for rebuilding.',
       reversed: 'Averted disaster, preventing conflict, maintaining the status quo. Or, delayed reckoning with inevitable change.'
@@ -277,7 +277,7 @@ export const tarotCards = [
     zh: '星星', 
     meaning: 'Hope, faith', 
     zh_meaning: '希望、信心',
-    image: '/cards/17-star.png',
+    image: '/cards/17-The-Star-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Hope, faith, purpose, renewed interest. A guiding light in darkness, spiritual inspiration. Trust that better times are coming and follow your dreams.',
       reversed: 'Loss of faith, despair, lack of hope or direction. Feeling disconnected from your purpose or unable to see the light ahead.'
@@ -293,7 +293,7 @@ export const tarotCards = [
     zh: '月亮', 
     meaning: 'Illusion, intuition', 
     zh_meaning: '幻觉、直觉',
-    image: '/cards/18-moon.png',
+    image: '/cards/18-The-Moon-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Illusion, fear, anxiety, intuition, dreams. Things are not what they seem. Trust your instincts but be aware of self-deception. Creativity and imagination thrive.',
       reversed: 'Clarity, truth revealed, fear subsiding, misunderstanding cleared. The fog lifts and you see reality clearly.'
@@ -309,7 +309,7 @@ export const tarotCards = [
     zh: '太阳', 
     meaning: 'Joy, success', 
     zh_meaning: '快乐、成功',
-    image: '/cards/19-sun.png',
+    image: '/cards/19-The-Sun-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Joy, success, vitality, happiness, optimism. A positive card indicating clarity and achievement. Life is good and abundance flows. Warmth and light surround you.',
       reversed: 'Sadness, delay, pessimism, temporary cloud covering the sun. Or false hope and unrealistic expectations.'
@@ -325,7 +325,7 @@ export const tarotCards = [
     zh: '审判', 
     meaning: 'Awakening, calling', 
     zh_meaning: '觉醒、召唤',
-    image: '/cards/20-judgment.png',
+    image: '/cards/20-Judgment-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Awakening, reckoning, inner calling, absolution. A second chance or important life decision. Time to answer a higher calling and evaluate your life\'s direction.',
       reversed: 'Self-doubt, harsh inner critic, ignoring the call, avoiding decisions. Procrastination or fear of taking that important step.'
@@ -341,7 +341,7 @@ export const tarotCards = [
     zh: '世界', 
     meaning: 'Completion, fulfillment', 
     zh_meaning: '完成、满足',
-    image: '/cards/21-world.png',
+    image: '/cards/21-The-World-Tarot-card-img-182x300-1.jpg',
     detailedMeaningEn: {
       upright: 'Completion, fulfillment, accomplishment, closure. A cycle has ended successfully. You have achieved your goals and reached a natural conclusion. Ready for new beginnings.',
       reversed: 'Incompleteness, unfinished business, seeking closure, delay. Something is incomplete or unresolved. A final push is needed to finish what you started.'
